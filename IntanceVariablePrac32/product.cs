@@ -8,5 +8,7 @@ namespace IntanceVariablePrac32
 {
     internal class product
     {
+        public string name = "default";
+        public int price = 0;
     }
 }
