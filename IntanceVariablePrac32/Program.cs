@@ -10,6 +10,10 @@ namespace IntanceVariablePrac32
     {
         static void Main(string[] args)
         {
+            //자바 스타일
+            product product1 = new product();
+            product1.name = "감자";
+            product1.price = 2000;
         }
     }
 }
